@@ -4,4 +4,4 @@ rabbitmq:
   port: 5672
   username: admin
   password: 20220523
-config: 20220523lishuo35
+config: 2022
