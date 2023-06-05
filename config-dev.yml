@@ -1,1 +1,7 @@
+rabbitmq:
+  virtual-host: my_vhost
+  host: 192.168.30.4
+  port: 5672
+  username: admin
+  password: 20220523
 config: 20220523lishuo35
